@@ -21,7 +21,7 @@ Ensure you have Python 3.x installed on your system. The script also requires th
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/facebook-comment-api.git
+   git clone https://github.com/K0J4/COMMENT-API.git
    cd COMMENT-API
    pip install -r requirements.txt
    python3 main.py
